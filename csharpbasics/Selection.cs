@@ -6,7 +6,7 @@ class SelectionStatement
         byte age = 50;
         if (age > 60)
         {
-         Console.writeLine("You are eligible for pension.");
+         Console.WriteLine("You are eligible for pension.");
         }
         else if(age >50)
         {

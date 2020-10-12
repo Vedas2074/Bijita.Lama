@@ -11,7 +11,7 @@ class Array //no of collection of same type
        float[] array2 = new float[] { 1.2f, 2.1f, 35.25f};//if array element is already known
        var x = array2.Length;//:3=no of item
 
-       char[] array3 = ( 'A','B','C');
+       char[] array3 = {'A','B','C'};
        float[] subarray1 = array2[1..3];
 
     }
