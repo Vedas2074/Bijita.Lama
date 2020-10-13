@@ -18,7 +18,7 @@ namespace LearningClasses
 
         public string Address { get; set; }
 
-        public byte Age { get; set; } 
-        
+        public byte Age { get; set; }
+
     }
 }

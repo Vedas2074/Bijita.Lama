@@ -7,7 +7,7 @@ public class Calculator
     //using generic method we can work on multiple data type
     public static int Sum<T>(T firstNum, T secondNum)
     {
-        return firstNum;//only syntax
+        return 0;//only syntax
 
     }
 }

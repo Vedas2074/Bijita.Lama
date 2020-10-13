@@ -11,12 +11,12 @@ class Human
         }
         set
         {
-            if(value > 20 && value < 30)
+            if (value > 20 && value < 30)
                 age = value;
-            
+
         }
 
-        
+
     }
     //Autoimplemented property
     public string Name { get; private set; }

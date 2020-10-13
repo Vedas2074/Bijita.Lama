@@ -30,6 +30,6 @@ class DataTypes
         return firstNum + secondNum;
     }
 
-    
+
 
 }

@@ -75,6 +75,7 @@ class B : A
 class C : B
 {
 }
+//class is a relationship, Interface has a relationship
 //Interface
 
 class D: A, IX, IY
