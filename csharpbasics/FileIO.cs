@@ -6,7 +6,7 @@ namespace FileDirectoryHandling
     {
         public void LearnFileReading()
         {
-            string fileContent = File.ReadAllText("Text.txt");
+            string fileContent = File.ReadAllText("Test.txt");
             Console.WriteLine(fileContent);
         }
         public void LearnFileWriting()
