@@ -40,16 +40,16 @@ class Program
         //Shape c = new Circle(23.4);
         //c.PrintDetails();
         //FILE HANDLING
-        //FileIO file = new FileIO();
-        //file.LearnFileReading();
+        FileIO file = new FileIO();
+        file.LearnFileReading();
         //FileIO file = new FileIO();
         //file.LearnFileWriting();
         //FileIo file = new FileIO();
         //file.LearnFileInfo();
         //FileIO file = new FileIO();
         //file.LearnDirectory();
-        FileIO file = new FileIO();
-        file.LearnDirectoryInfo();
+        //FileIO file = new FileIO();
+        //file.LearnDirectoryInfo();
     }
 }
 
